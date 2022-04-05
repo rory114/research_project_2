@@ -1,7 +1,14 @@
-html, body {
-  margin: 0;
-  padding: 0;
-}
 canvas {
   display: block;
+}
+html, body {
+  margin:0px;
+  height:100%;
+}
+.fill {
+  width: 100%;
+  height: 100%;
+}
+body {
+  background-image: url("https://cdn.shopify.com/s/files/1/0270/0636/9827/products/159c17b7-ebe8-361a-ae84-667d129f48d3.jpg?v=1641328624&width=256");
 }
